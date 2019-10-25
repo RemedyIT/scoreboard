@@ -10,14 +10,14 @@ regarding TAOX11 see https://www.taox11.org.
 <group>
   <name>Linux</name>
   <build>
-    <name>centos73_axcioma_release_ndds523rev0</name>
-    <url>http://buildlogslogs.remedy.nl/centos73_axcioma_release_ndds523rev0</url>
+    <name>centos73_taox11_release</name>
+    <url>http://buildlogslogs.remedy.nl/centos73_taox11_release</url>
       <build_sponsor>Remedy IT</build_sponsor>
       <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
-    <name>centos73_axcioma_debug_ndds523rev0</name>
-    <url>http://buildlogs.remedy.nl/centos73_axcioma_debug_ndds523rev0</url>
+    <name>centos73_taox11_debug</name>
+    <url>http://buildlogs.remedy.nl/centos73_taox11_debug</url>
       <build_sponsor>Remedy IT</build_sponsor>
       <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
