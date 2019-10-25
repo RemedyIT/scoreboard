@@ -1,0 +1,26 @@
+<scoreboard>
+<preamble>
+<center><h1>TAOX11 Scoreboard</h1></center>
+<hr/>
+This is the scoreboard for TAOX11. For more information
+regarding TAOX11 see https://www.taox11.org.
+<hr/>
+</preamble>
+
+<group>
+  <name>Linux</name>
+  <build>
+    <name>centos73_axcioma_release_ndds523rev0</name>
+    <url>http://buildlogslogs.remedy.nl/centos73_axcioma_release_ndds523rev0</url>
+      <build_sponsor>Remedy IT</build_sponsor>
+      <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
+  </build>
+  <build>
+    <name>centos73_axcioma_debug_ndds523rev0</name>
+    <url>http://buildlogs.remedy.nl/centos73_axcioma_debug_ndds523rev0</url>
+      <build_sponsor>Remedy IT</build_sponsor>
+      <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
+  </build>
+</group>
+
+</scoreboard>
