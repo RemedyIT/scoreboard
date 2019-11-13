@@ -17,9 +17,9 @@ tr { border-color: #dedede; }
 .new { font-weight: bold; }
 .normal { background: white; }
 .warning { background: #d9712b; }
-.late { background: crimson; }
+.late { background: #b30000; }
 .disabled { background: gray; }
-.error { background: crimson; }
+.error { background: #b30000; }
 .error a { color: white; }
 .warning { background: #d9712b; }
 .warning a { color: white; }
