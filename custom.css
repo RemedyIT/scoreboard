@@ -16,6 +16,12 @@ tr { border-color: #dedede; }
 .status { min-width: 50px; }
 .new { font-weight: bold; }
 .normal { background: white; }
-.warning { background: orange; }
-.late { background: red; }
+.warning { background: #d9712b; }
+.late { background: crimson; }
 .disabled { background: gray; }
+.error { background: crimson; }
+.error a { color: white; }
+.warning { background: #d9712b; }
+.warning a { color: white; }
+.good { background: forestgreen; }
+.good a { color: white; }
