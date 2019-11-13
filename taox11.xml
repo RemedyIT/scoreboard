@@ -7,13 +7,13 @@
   <name>Linux</name>
   <build>
     <name>centos73_taox11_release</name>
-    <url>http://buildlogs.remedy.nl/centos73_taox11_release</url>
+    <url>https://buildlogs.remedy.nl/centos73_taox11_release</url>
       <build_sponsor>Remedy IT</build_sponsor>
       <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
     <name>centos73_taox11_debug</name>
-    <url>http://buildlogs.remedy.nl/centos73_taox11_debug</url>
+    <url>https://buildlogs.remedy.nl/centos73_taox11_debug</url>
       <build_sponsor>Remedy IT</build_sponsor>
       <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
