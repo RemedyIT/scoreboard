@@ -11,7 +11,7 @@ regarding AXCIOMA see https://www.axcioma.org.
   <name>Linux</name>
   <build>
     <name>centos73_axcioma_release_ndds523rev0</name>
-    <url>http://buildlogslogs.remedy.nl/centos73_axcioma_release_ndds523rev0</url>
+    <url>http://buildlogs.remedy.nl/centos73_axcioma_release_ndds523rev0</url>
       <build_sponsor>Remedy IT</build_sponsor>
       <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
