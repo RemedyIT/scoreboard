@@ -6,7 +6,7 @@ body {
 a { color: #E57B2A; }
 table { border-collapse: collapse; border-color: #dedede; }
 th { background: #ddd; border-color: #dedede; }
-td { padding: inherit 5px; border-color: #dedede; }
+td { padding: 3px 2px 3px 2px; border-color: #dedede; }
 tr { border-color: #dedede; }
 .buildtable { overflow: auto; overflow-y: hidden; }
 .name { min-width: 350px; }
