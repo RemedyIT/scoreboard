@@ -17,6 +17,12 @@
       <build_sponsor>Remedy IT</build_sponsor>
       <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
+  <build>
+    <name>rhel75_taox11_valgrind</name>
+    <url>https://buildlogs.remedy.nl/rhel75_taox11_valgrind</url>
+      <build_sponsor>Remedy IT</build_sponsor>
+      <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
+  </build>
 </group>
 
 </scoreboard>
