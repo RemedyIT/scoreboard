@@ -6,20 +6,20 @@
 <group>
   <name>Linux</name>
   <build>
-    <name>rhel75_axcioma_release_ndds600rev0</name>
-    <url>https://buildlogs.remedy.nl/rhel75_axcioma_release_ndds600rev0</url>
+    <name>rhel75_axcioma_release_ndds601rev0</name>
+    <url>https://buildlogs.remedy.nl/rhel75_axcioma_release_ndds601rev0</url>
       <build_sponsor>Remedy IT</build_sponsor>
       <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
-    <name>rhel75_axcioma_debug_ndds600rev0</name>
-    <url>https://buildlogs.remedy.nl/rhel75_axcioma_debug_ndds600rev0</url>
+    <name>rhel75_axcioma_debug_ndds601rev0</name>
+    <url>https://buildlogs.remedy.nl/rhel75_axcioma_debug_ndds601rev0</url>
       <build_sponsor>Remedy IT</build_sponsor>
       <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
-    <name>rhel75_axcioma_valgrind_ndds600rev0</name>
-    <url>https://buildlogs.remedy.nl/rhel75_axcioma_valgrind_ndds600rev0</url>
+    <name>rhel75_axcioma_valgrind_ndds601rev0</name>
+    <url>https://buildlogs.remedy.nl/rhel75_axcioma_valgrind_ndds601rev0</url>
       <build_sponsor>Remedy IT</build_sponsor>
       <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
