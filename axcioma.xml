@@ -24,13 +24,13 @@
       <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
-    <name>fc_axcioma_yocto253_zcu102_release</name>
+    <name>fc_axcioma_yocto253_zcu102_release_ndds601rev1</name>
     <url>https://buildlogs.remedy.nl/fc_axcioma_yocto253_zcu102_release</url>
       <build_sponsor>Remedy IT</build_sponsor>
       <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
-    <name>fc_axcioma_yocto253_zcu102_debug</name>
+    <name>fc_axcioma_yocto253_zcu102_debug_ndds601rev1</name>
     <url>https://buildlogs.remedy.nl/fc_axcioma_yocto253_zcu102_debug</url>
       <build_sponsor>Remedy IT</build_sponsor>
       <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
