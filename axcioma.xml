@@ -40,32 +40,32 @@
 <group>
   <name>Linux using OpenDDS</name>
   <build>
-    <name>rhel75_axcioma_release_opendds</name>
-    <url>https://buildlogs.remedy.nl/rhel75_axcioma_release_opendds</url>
+    <name>rhel75_axcioma_release_opendds316</name>
+    <url>https://buildlogs.remedy.nl/rhel75_axcioma_release_opendds316</url>
       <build_sponsor>Remedy IT</build_sponsor>
       <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
-    <name>rhel75_axcioma_debug_opendds</name>
-    <url>https://buildlogs.remedy.nl/rhel75_axcioma_debug_opendds</url>
+    <name>rhel75_axcioma_debug_opendds316</name>
+    <url>https://buildlogs.remedy.nl/rhel75_axcioma_debug_opendds316</url>
       <build_sponsor>Remedy IT</build_sponsor>
       <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
-    <name>rhel75_axcioma_valgrind_opendds</name>
-    <url>https://buildlogs.remedy.nl/rhel75_axcioma_valgrind_opendds</url>
+    <name>rhel75_axcioma_valgrind_opendds316</name>
+    <url>https://buildlogs.remedy.nl/rhel75_axcioma_valgrind_opendds316</url>
       <build_sponsor>Remedy IT</build_sponsor>
       <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
-    <name>fc_axcioma_yocto253_zcu102_release_opendds</name>
-    <url>https://buildlogs.remedy.nl/fc_axcioma_yocto253_zcu102_release_opendds</url>
+    <name>fc_axcioma_yocto253_zcu102_release_opendds316</name>
+    <url>https://buildlogs.remedy.nl/fc_axcioma_yocto253_zcu102_release_opendds316</url>
       <build_sponsor>Remedy IT</build_sponsor>
       <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
-    <name>fc_axcioma_yocto253_zcu102_debug_opendds</name>
-    <url>https://buildlogs.remedy.nl/fc_axcioma_yocto253_zcu102_debug_opendds</url>
+    <name>fc_axcioma_yocto253_zcu102_debug_opendds316</name>
+    <url>https://buildlogs.remedy.nl/fc_axcioma_yocto253_zcu102_debug_opendds316</url>
       <build_sponsor>Remedy IT</build_sponsor>
       <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
