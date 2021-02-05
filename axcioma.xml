@@ -4,7 +4,7 @@
 </preamble>
 
 <group>
-  <name>Linux RTI Connext DDS</name>
+  <name>Linux Connext DDS</name>
   <build>
     <name>rhel75_axcioma_release_ndds601rev0</name>
     <url>https://buildlogs.remedy.nl/rhel75_axcioma_release_ndds601rev0</url>
