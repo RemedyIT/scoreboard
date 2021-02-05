@@ -4,7 +4,7 @@
 </preamble>
 
 <group>
-  <name>Linux Connext DDS</name>
+  <name>Linux with RTI Connext DDS</name>
   <build>
     <name>rhel75_axcioma_release_ndds601rev0</name>
     <url>https://buildlogs.remedy.nl/rhel75_axcioma_release_ndds601rev0</url>
@@ -38,7 +38,7 @@
 </group>
 
 <group>
-  <name>Linux OpenDDS</name>
+  <name>Linux with OpenDDS</name>
   <build>
     <name>rhel75_axcioma_release_opendds316</name>
     <url>https://buildlogs.remedy.nl/rhel75_axcioma_release_opendds316</url>
