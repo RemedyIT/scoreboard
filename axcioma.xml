@@ -58,6 +58,12 @@
       <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
+    <name>rhel75_axcioma_master_opendds316</name>
+    <url>https://buildlogs.remedy.nl/rhel75_axcioma_master_opendds316</url>
+      <build_sponsor>Remedy IT</build_sponsor>
+      <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
+  </build>
+  <build>
     <name>fc_axcioma_yocto253_zcu102_release_opendds316</name>
     <url>https://buildlogs.remedy.nl/fc_axcioma_yocto253_zcu102_release_opendds316</url>
       <build_sponsor>Remedy IT</build_sponsor>
