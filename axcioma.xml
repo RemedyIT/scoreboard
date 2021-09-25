@@ -40,14 +40,14 @@
 <group>
   <name>Linux with OpenDDS</name>
   <build>
-    <name>rhel75_axcioma_release_opendds318</name>
-    <url>https://buildlogs.remedy.nl/rhel75_axcioma_release_opendds318</url>
+    <name>rhel75_axcioma_release_opendds3181</name>
+    <url>https://buildlogs.remedy.nl/rhel75_axcioma_release_opendds3181</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
-    <name>rhel75_axcioma_debug_opendds318</name>
-    <url>https://buildlogs.remedy.nl/rhel75_axcioma_debug_opendds318</url>
+    <name>rhel75_axcioma_debug_opendds3181</name>
+    <url>https://buildlogs.remedy.nl/rhel75_axcioma_debug_opendds3181</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
@@ -64,14 +64,14 @@
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
-    <name>fc_axcioma_yocto253_zcu102_release_opendds318</name>
-    <url>https://buildlogs.remedy.nl/fc_axcioma_yocto253_zcu102_release_opendds318</url>
+    <name>fc_axcioma_yocto253_zcu102_release_opendds3181</name>
+    <url>https://buildlogs.remedy.nl/fc_axcioma_yocto253_zcu102_release_opendds3181</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
-    <name>fc_axcioma_yocto253_zcu102_debug_opendds318</name>
-    <url>https://buildlogs.remedy.nl/fc_axcioma_yocto253_zcu102_debug_opendds318</url>
+    <name>fc_axcioma_yocto253_zcu102_debug_opendds3181</name>
+    <url>https://buildlogs.remedy.nl/fc_axcioma_yocto253_zcu102_debug_opendds3181</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
