@@ -1,7 +1,7 @@
 # Remedy IT scoreboard configuration files
 
 Edit one of the xml files in this repository to add builds to the
-public Remedy IT scoreboards. The Remedy IT scoreboards make use of the
+public [Remedy IT](https://www.remedy.nl) scoreboards. The Remedy IT scoreboards make use of the
 DOCGroup [autobuild](https://github.com/DOCGroup/autobuild) tool.
 
 These xml files will be used to generate
