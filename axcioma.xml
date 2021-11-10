@@ -24,6 +24,24 @@
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
+    <name>rhel80_axcioma_release_ndds610rev3</name>
+    <url>https://buildlogs.remedy.nl/rhel80_axcioma_release_ndds610rev3</url>
+    <build_sponsor>Remedy IT</build_sponsor>
+    <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
+  </build>
+  <build>
+    <name>rhel80_axcioma_debug_ndds610rev3</name>
+    <url>https://buildlogs.remedy.nl/rhel80_axcioma_debug_ndds610rev3</url>
+    <build_sponsor>Remedy IT</build_sponsor>
+    <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
+  </build>
+  <build>
+    <name>rhel80_axcioma_valgrind_ndds610rev3</name>
+    <url>https://buildlogs.remedy.nl/rhel80_axcioma_valgrind_ndds610rev3</url>
+    <build_sponsor>Remedy IT</build_sponsor>
+    <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
+  </build>
+  <build>
     <name>fc_axcioma_yocto253_zcu102_release_ndds610rev3</name>
     <url>https://buildlogs.remedy.nl/fc_axcioma_yocto253_zcu102_release_ndds610rev3</url>
     <build_sponsor>Remedy IT</build_sponsor>
@@ -60,6 +78,30 @@
   <build>
     <name>rhel75_axcioma_master_opendds</name>
     <url>https://buildlogs.remedy.nl/rhel75_axcioma_master_opendds</url>
+    <build_sponsor>Remedy IT</build_sponsor>
+    <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
+  </build>
+  <build>
+    <name>rhel80_axcioma_release_opendds3181</name>
+    <url>https://buildlogs.remedy.nl/rhel80_axcioma_release_opendds3181</url>
+    <build_sponsor>Remedy IT</build_sponsor>
+    <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
+  </build>
+  <build>
+    <name>rhel80_axcioma_debug_opendds3181</name>
+    <url>https://buildlogs.remedy.nl/rhel80_axcioma_debug_opendds3181</url>
+    <build_sponsor>Remedy IT</build_sponsor>
+    <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
+  </build>
+  <build>
+    <name>rhel80_axcioma_master_valgrind_opendds</name>
+    <url>https://buildlogs.remedy.nl/rhel80_axcioma_master_valgrind_opendds</url>
+    <build_sponsor>Remedy IT</build_sponsor>
+    <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
+  </build>
+  <build>
+    <name>rhel80_axcioma_master_opendds</name>
+    <url>https://buildlogs.remedy.nl/rhel80_axcioma_master_opendds</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
