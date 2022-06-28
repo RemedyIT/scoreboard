@@ -40,14 +40,14 @@
 <group>
   <name>Linux with OpenDDS</name>
   <build>
-    <name>rhel80_axcioma_release_opendds3200</name>
-    <url>https://buildlogs.remedy.nl/rhel80_axcioma_release_opendds3200</url>
+    <name>rhel80_axcioma_release_opendds3210</name>
+    <url>https://buildlogs.remedy.nl/rhel80_axcioma_release_opendds3210</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
-    <name>rhel80_axcioma_debug_opendds3200</name>
-    <url>https://buildlogs.remedy.nl/rhel80_axcioma_debug_opendds3200</url>
+    <name>rhel80_axcioma_debug_opendds3210</name>
+    <url>https://buildlogs.remedy.nl/rhel80_axcioma_debug_opendds3210</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
@@ -64,14 +64,14 @@
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
-    <name>rhel80_axcioma_yocto253_zcu102_release_opendds3200</name>
-    <url>https://buildlogs.remedy.nl/rhel80_axcioma_yocto253_zcu102_release_opendds3200</url>
+    <name>rhel80_axcioma_yocto253_zcu102_release_opendds3210</name>
+    <url>https://buildlogs.remedy.nl/rhel80_axcioma_yocto253_zcu102_release_opendds3210</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
-    <name>rhel80_axcioma_yocto253_zcu102_debug_opendds3200</name>
-    <url>https://buildlogs.remedy.nl/rhel80_axcioma_yocto253_zcu102_debug_opendds3200</url>
+    <name>rhel80_axcioma_yocto253_zcu102_debug_opendds3210</name>
+    <url>https://buildlogs.remedy.nl/rhel80_axcioma_yocto253_zcu102_debug_opendds3210</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
