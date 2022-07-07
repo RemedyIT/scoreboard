@@ -78,7 +78,7 @@
 </group>
 
 <group>
-  <name>AXCIOMA v2.2.1 on Linux</name>
+  <name>v2.2.1 on Linux</name>
   <build>
     <name>rhel75_axcioma221_debug_ndds610rev3</name>
     <url>http://buildlogs.remedy.nl/rhel75_axcioma221_debug_ndds610rev3</url>
