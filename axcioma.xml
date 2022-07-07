@@ -77,5 +77,38 @@
   </build>
 </group>
 
+<group>
+  <name>AXCIOMA v2.2.1 on Linux</name>
+  <build>
+    <name>rhel75_axcioma221_debug_ndds610rev3</name>
+    <url>http://buildlogs.remedy.nl/rhel75_axcioma221_debug_ndds610rev3</url>
+    <build_sponsor>Remedy IT</build_sponsor>
+    <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
+  </build>
+  <build>
+    <name>rhel75_axcioma221_release_ndds610rev3</name>
+    <url>http://buildlogs.remedy.nl/rhel75_axcioma221_release_ndds610rev3</url>
+    <build_sponsor>Remedy IT</build_sponsor>
+    <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
+  </build>
+  <build>
+    <name>rhel75_axcioma221_valgrind_ndds610rev3</name>
+    <url>http://buildlogs.remedy.nl/rhel75_axcioma221_valgrind_ndds610rev3</url>
+    <build_sponsor>Remedy IT</build_sponsor>
+    <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
+  </build>
+  <build>
+    <name>rhel75_axcioma221_debug_opendds3181</name>
+    <url>http://buildlogs.remedy.nl/rhel75_axcioma221_debug_opendds3181</url>
+    <build_sponsor>Remedy IT</build_sponsor>
+    <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
+  </build>
+  <build>
+    <name>rhel75_axcioma221_release_opendds3181</name>
+    <url>http://buildlogs.remedy.nl/rhel75_axcioma221_release_opendds3181</url>
+    <build_sponsor>Remedy IT</build_sponsor>
+    <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
+  </build>
+</group>
 
 </scoreboard>
