@@ -4,7 +4,7 @@
 </preamble>
 
 <group>
-  <name>Master on Linux with RTI Connext DDS</name>
+  <name>Master on Linux</name>
   <build>
     <name>rhel80_axcioma_release_ndds610rev3</name>
     <url>https://download.remedy.nl/buildlogs/rhel80_axcioma_release_ndds610rev3</url>
@@ -35,10 +35,6 @@
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
-</group>
-
-<group>
-  <name>Master on Linux with OpenDDS</name>
   <build>
     <name>rhel80_axcioma_release_opendds3220</name>
     <url>https://download.remedy.nl/buildlogs/rhel80_axcioma_release_opendds3220</url>
@@ -81,31 +77,31 @@
   <name>v2.2.1 on Linux</name>
   <build>
     <name>rhel75_axcioma221_debug_ndds610rev3</name>
-    <url>https://download.remedy.nl/buildlogs/AXCIOMA_v2.2.1/rhel75_axcioma22x_debug_ndds610rev3</url>
+    <url>https://download.remedy.nl/buildlogs/axcioma/AXCIOMA_v2.2.1/rhel75_axcioma22x_debug_ndds610rev3</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
     <name>rhel75_axcioma221_release_ndds610rev3</name>
-    <url>https://download.remedy.nl/buildlogs/AXCIOMA_v2.2.1/rhel75_axcioma22x_release_ndds610rev3</url>
+    <url>https://download.remedy.nl/buildlogs/axcioma/AXCIOMA_v2.2.1/rhel75_axcioma22x_release_ndds610rev3</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
     <name>rhel75_axcioma221_valgrind_ndds610rev3</name>
-    <url>https://download.remedy.nl/buildlogs/AXCIOMA_v2.2.1/rhel75_axcioma22x_valgrind_ndds610rev3</url>
+    <url>https://download.remedy.nl/buildlogs/axcioma/AXCIOMA_v2.2.1/rhel75_axcioma22x_valgrind_ndds610rev3</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
     <name>rhel75_axcioma221_debug_opendds3181</name>
-    <url>https://download.remedy.nl/buildlogs/AXCIOMA_v2.2.1/rhel75_axcioma22x_debug_opendds3181</url>
+    <url>https://download.remedy.nl/buildlogs/axcioma/AXCIOMA_v2.2.1/rhel75_axcioma22x_debug_opendds3181</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
     <name>rhel75_axcioma221_release_opendds3181</name>
-    <url>https://download.remedy.nl/buildlogs/AXCIOMA_v2.2.1/rhel75_axcioma22x_release_opendds3181</url>
+    <url>https://download.remedy.nl/buildlogs/axcioma/AXCIOMA_v2.2.1/rhel75_axcioma22x_release_opendds3181</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
@@ -115,31 +111,31 @@
   <name>v2.2.2 on Linux</name>
   <build>
     <name>rhel75_axcioma222_debug_ndds610rev3</name>
-    <url>https://download.remedy.nl/buildlogs/v2.2.2_dev/rhel75_axcioma22x_debug_ndds610rev3</url>
+    <url>https://download.remedy.nl/buildlogs/axcioma/v2.2.2_dev/rhel75_axcioma22x_debug_ndds610rev3</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
     <name>rhel75_axcioma222_release_ndds610rev3</name>
-    <url>https://download.remedy.nl/buildlogs/v2.2.2_dev/rhel75_axcioma22x_release_ndds610rev3</url>
+    <url>https://download.remedy.nl/buildlogs/axcioma/v2.2.2_dev/rhel75_axcioma22x_release_ndds610rev3</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
     <name>rhel75_axcioma222_valgrind_ndds610rev3</name>
-    <url>https://download.remedy.nl/buildlogs/v2.2.2_dev/rhel75_axcioma22x_valgrind_ndds610rev3</url>
+    <url>https://download.remedy.nl/buildlogs/axcioma/v2.2.2_dev/rhel75_axcioma22x_valgrind_ndds610rev3</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
     <name>rhel75_axcioma222_debug_opendds3181</name>
-    <url>https://download.remedy.nl/buildlogs/v2.2.2_dev/rhel75_axcioma22x_debug_opendds3181</url>
+    <url>https://download.remedy.nl/buildlogs/axcioma/v2.2.2_dev/rhel75_axcioma22x_debug_opendds3181</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
     <name>rhel75_axcioma222_release_opendds3181</name>
-    <url>https://download.remedy.nl/buildlogs/v2.2.2_dev/rhel75_axcioma22x_release_opendds3181</url>
+    <url>https://download.remedy.nl/buildlogs/axcioma/v2.2.2_dev/rhel75_axcioma22x_release_opendds3181</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
@@ -150,55 +146,55 @@
   <name>v2.3.0 on Linux</name>
   <build>
     <name>rhel80_axcioma230_release_ndds610rev3</name>
-    <url>https://download.remedy.nl/buildlogs/AXCIOMA_v2.3.0/rhel80_axcioma23x_release_ndds610rev3</url>
+    <url>https://download.remedy.nl/buildlogs/axcioma/AXCIOMA_v2.3.0/rhel80_axcioma23x_release_ndds610rev3</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
     <name>rhel80_axcioma230_debug_ndds610rev3</name>
-    <url>https://download.remedy.nl/buildlogs/AXCIOMA_v2.3.0/rhel80_axcioma23x_debug_ndds610rev3</url>
+    <url>https://download.remedy.nl/buildlogs/axcioma/AXCIOMA_v2.3.0/rhel80_axcioma23x_debug_ndds610rev3</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
     <name>rhel80_axcioma230_valgrind_ndds610rev3</name>
-    <url>https://download.remedy.nl/buildlogs/AXCIOMA_v2.3.0/rhel80_axcioma23x_valgrind_ndds610rev3</url>
+    <url>https://download.remedy.nl/buildlogs/axcioma/AXCIOMA_v2.3.0/rhel80_axcioma23x_valgrind_ndds610rev3</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
     <name>rhel80_axcioma230_yocto253_zcu102_release_ndds610rev3</name>
-    <url>https://download.remedy.nl/buildlogs/AXCIOMA_v2.3.0/rhel80_axcioma23x_yocto253_zcu102_release_ndds610rev3</url>
+    <url>https://download.remedy.nl/buildlogs/axcioma/AXCIOMA_v2.3.0/rhel80_axcioma23x_yocto253_zcu102_release_ndds610rev3</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
     <name>rhel80_axcioma230_yocto253_zcu102_debug_ndds610rev3</name>
-    <url>https://download.remedy.nl/buildlogs/AXCIOMA_v2.3.0/rhel80_axcioma23x_yocto253_zcu102_debug_ndds610rev3</url>
+    <url>https://download.remedy.nl/buildlogs/axcioma/AXCIOMA_v2.3.0/rhel80_axcioma23x_yocto253_zcu102_debug_ndds610rev3</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
     <name>rhel80_axcioma230_release_opendds3220</name>
-    <url>https://download.remedy.nl/buildlogs/AXCIOMA_v2.3.0/rhel80_axcioma23x_release_opendds3220</url>
+    <url>https://download.remedy.nl/buildlogs/axcioma/AXCIOMA_v2.3.0/rhel80_axcioma23x_release_opendds3220</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
     <name>rhel80_axcioma230_debug_opendds3220</name>
-    <url>https://download.remedy.nl/buildlogs/AXCIOMA_v2.3.0/rhel80_axcioma23x_debug_opendds3220</url>
+    <url>https://download.remedy.nl/buildlogs/axcioma/AXCIOMA_v2.3.0/rhel80_axcioma23x_debug_opendds3220</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
     <name>rhel80_axcioma230_yocto253_zcu102_release_opendds3220</name>
-    <url>https://download.remedy.nl/buildlogs/AXCIOMA_v2.3.0/rhel80_axcioma23x_yocto253_zcu102_release_opendds3220</url>
+    <url>https://download.remedy.nl/buildlogs/axcioma/AXCIOMA_v2.3.0/rhel80_axcioma23x_yocto253_zcu102_release_opendds3220</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
     <name>rhel80_axcioma230_yocto253_zcu102_debug_opendds3220</name>
-    <url>https://download.remedy.nl/buildlogs/AXCIOMA_v2.3.0/rhel80_axcioma23x_yocto253_zcu102_debug_opendds3220</url>
+    <url>https://download.remedy.nl/buildlogs/axcioma/AXCIOMA_v2.3.0/rhel80_axcioma23x_yocto253_zcu102_debug_opendds3220</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
@@ -208,55 +204,55 @@
   <name>v2.3.1 on Linux</name>
   <build>
     <name>rhel80_axcioma231_release_ndds610rev3</name>
-    <url>https://download.remedy.nl/buildlogs/v2.3.1_dev/rhel80_axcioma23x_release_ndds610rev3</url>
+    <url>https://download.remedy.nl/buildlogs/axcioma/AXCIOMA_v2.3.0/rhel80_axcioma23x_release_ndds610rev3</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
     <name>rhel80_axcioma231_debug_ndds610rev3</name>
-    <url>https://download.remedy.nl/buildlogs/v2.3.1_dev/rhel80_axcioma23x_debug_ndds610rev3</url>
+    <url>https://download.remedy.nl/buildlogs/axcioma/AXCIOMA_v2.3.0/rhel80_axcioma23x_debug_ndds610rev3</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
     <name>rhel80_axcioma231_valgrind_ndds610rev3</name>
-    <url>https://download.remedy.nl/buildlogs/v2.3.1_dev/rhel80_axcioma23x_valgrind_ndds610rev3</url>
+    <url>https://download.remedy.nl/buildlogs/axcioma/AXCIOMA_v2.3.0/rhel80_axcioma23x_valgrind_ndds610rev3</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
     <name>rhel80_axcioma231_yocto253_zcu102_release_ndds610rev3</name>
-    <url>https://download.remedy.nl/buildlogs/v2.3.1_dev/rhel80_axcioma23x_yocto253_zcu102_release_ndds610rev3</url>
+    <url>https://download.remedy.nl/buildlogs/axcioma/AXCIOMA_v2.3.0/rhel80_axcioma23x_yocto253_zcu102_release_ndds610rev3</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
     <name>rhel80_axcioma231_yocto253_zcu102_debug_ndds610rev3</name>
-    <url>https://download.remedy.nl/buildlogs/v2.3.1_dev/rhel80_axcioma23x_yocto253_zcu102_debug_ndds610rev3</url>
+    <url>https://download.remedy.nl/buildlogs/axcioma/AXCIOMA_v2.3.0/rhel80_axcioma23x_yocto253_zcu102_debug_ndds610rev3</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
     <name>rhel80_axcioma231_release_opendds3220</name>
-    <url>https://download.remedy.nl/buildlogs/v2.3.1_dev/rhel80_axcioma23x_release_opendds3220</url>
+    <url>https://download.remedy.nl/buildlogs/axcioma/AXCIOMA_v2.3.0/rhel80_axcioma23x_release_opendds3220</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
     <name>rhel80_axcioma231_debug_opendds3220</name>
-    <url>https://download.remedy.nl/buildlogs/v2.3.1_dev/rhel80_axcioma23x_debug_opendds3220</url>
+    <url>https://download.remedy.nl/buildlogs/axcioma/AXCIOMA_v2.3.0/rhel80_axcioma23x_debug_opendds3220</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
     <name>rhel80_axcioma231_yocto253_zcu102_release_opendds3220</name>
-    <url>https://download.remedy.nl/buildlogs/v2.3.1_dev/rhel80_axcioma23x_yocto253_zcu102_release_opendds3220</url>
+    <url>https://download.remedy.nl/buildlogs/axcioma/AXCIOMA_v2.3.0/rhel80_axcioma23x_yocto253_zcu102_release_opendds3220</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
     <name>rhel80_axcioma231_yocto253_zcu102_debug_opendds3220</name>
-    <url>https://download.remedy.nl/buildlogs/v2.3.1_dev/rhel80_axcioma23x_yocto253_zcu102_debug_opendds3220</url>
+    <url>https://download.remedy.nl/buildlogs/axcioma/AXCIOMA_v2.3.0/rhel80_axcioma23x_yocto253_zcu102_debug_opendds3220</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
