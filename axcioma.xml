@@ -36,14 +36,14 @@
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
-    <name>rhel80_axcioma_release_opendds3230</name>
-    <url>https://download.remedy.nl/buildlogs/rhel80_axcioma_release_opendds3230</url>
+    <name>rhel80_axcioma_release_opendds3231</name>
+    <url>https://download.remedy.nl/buildlogs/rhel80_axcioma_release_opendds3231</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
-    <name>rhel80_axcioma_debug_opendds3230</name>
-    <url>https://download.remedy.nl/buildlogs/rhel80_axcioma_debug_opendds3230</url>
+    <name>rhel80_axcioma_debug_opendds3231</name>
+    <url>https://download.remedy.nl/buildlogs/rhel80_axcioma_debug_opendds3231</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
@@ -60,14 +60,14 @@
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
-    <name>rhel80_axcioma_yocto253_zcu102_release_opendds3230</name>
-    <url>https://download.remedy.nl/buildlogs/rhel80_axcioma_yocto253_zcu102_release_opendds3230</url>
+    <name>rhel80_axcioma_yocto253_zcu102_release_opendds3231</name>
+    <url>https://download.remedy.nl/buildlogs/rhel80_axcioma_yocto253_zcu102_release_opendds3231</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
-    <name>rhel80_axcioma_yocto253_zcu102_debug_opendds3230</name>
-    <url>https://download.remedy.nl/buildlogs/rhel80_axcioma_yocto253_zcu102_debug_opendds3230</url>
+    <name>rhel80_axcioma_yocto253_zcu102_debug_opendds3231</name>
+    <url>https://download.remedy.nl/buildlogs/rhel80_axcioma_yocto253_zcu102_debug_opendds3231</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
