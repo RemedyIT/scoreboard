@@ -129,6 +129,30 @@
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
+  <build>
+    <name>rhel80_axcioma_yocto344_zcu102_release_ndds610rev3</name>
+    <url>http://download.remedy.nl/buildlogs/rhel80_axcioma_yocto344_zcu102_release_ndds610rev3</url>
+    <build_sponsor>Remedy IT</build_sponsor>
+    <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
+  </build>
+  <build>
+    <name>rhel80_axcioma_yocto344_zcu102_debug_ndds610rev3</name>
+    <url>http://download.remedy.nl/buildlogs/rhel80_axcioma_yocto344_zcu102_debug_ndds610rev3</url>
+    <build_sponsor>Remedy IT</build_sponsor>
+    <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
+  </build>
+  <build>
+    <name>rhel80_axcioma_yocto344_zcu102_debug_opendds3231</name>
+    <url>http://download.remedy.nl/buildlogs/rhel80_axcioma_yocto344_zcu102_debug_opendds3231</url>
+    <build_sponsor>Remedy IT</build_sponsor>
+    <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
+  </build>
+  <build>
+    <name>rhel80_axcioma_yocto344_zcu102_release_opendds3231</name>
+    <url>http://download.remedy.nl/buildlogs/rhel80_axcioma_yocto344_zcu102_release_opendds3231</url>
+    <build_sponsor>Remedy IT</build_sponsor>
+    <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
+  </build>
 </group>
 
 <group>
