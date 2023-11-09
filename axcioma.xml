@@ -282,7 +282,7 @@
 </group>
 
 <group>
-  <name>AXCIOMA v2.5.0 on Linux</name>
+  <name>v2.5.0 on Linux</name>
   <build>
     <name>rhel80_axcioma250_release_ndds612rev0</name>
     <url>https://download.remedy.nl/buildlogs/axcioma/AXCIOMA_v2.5.0/rhel80_axcioma25x_release_ndds612rev0</url>
@@ -340,7 +340,7 @@
 </group>
 
 <group>
-  <name>AXCIOMA v2.5.1 dev on Linux</name>
+  <name>v2.5.1 dev on Linux</name>
   <build>
     <name>rhel80_axcioma251_release_ndds612rev0</name>
     <url>https://download.remedy.nl/buildlogs/axcioma/v2.5.1_dev/rhel80_axcioma25x_release_ndds612rev0</url>
