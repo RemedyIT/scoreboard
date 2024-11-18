@@ -6,20 +6,20 @@
 <group>
   <name>Master on Linux</name>
   <build>
-    <name>rhel80_axcioma_release_ndds730rev0</name>
-    <url>https://download.remedy.nl/buildlogs/rhel80_axcioma_release_ndds730rev0</url>
+    <name>rhel80_axcioma_release_ndds7305</name>
+    <url>https://download.remedy.nl/buildlogs/rhel80_axcioma_release_ndds7305</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
-    <name>rhel80_axcioma_debug_ndds730rev0</name>
-    <url>https://download.remedy.nl/buildlogs/rhel80_axcioma_debug_ndds730rev0</url>
+    <name>rhel80_axcioma_debug_ndds7305</name>
+    <url>https://download.remedy.nl/buildlogs/rhel80_axcioma_debug_ndds7305</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
-    <name>rhel80_axcioma_valgrind_ndds730rev0</name>
-    <url>https://download.remedy.nl/buildlogs/rhel80_axcioma_valgrind_ndds730rev0</url>
+    <name>rhel80_axcioma_valgrind_ndds7305</name>
+    <url>https://download.remedy.nl/buildlogs/rhel80_axcioma_valgrind_ndds7305</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
@@ -48,14 +48,14 @@
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
-    <name>rhel80_axcioma_yocto344_zcu102_release_ndds730rev0</name>
-    <url>http://download.remedy.nl/buildlogs/rhel80_axcioma_yocto344_zcu102_release_ndds730rev0</url>
+    <name>rhel80_axcioma_yocto344_zcu102_release_ndds7305</name>
+    <url>http://download.remedy.nl/buildlogs/rhel80_axcioma_yocto344_zcu102_release_ndds7305</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
-    <name>rhel80_axcioma_yocto344_zcu102_debug_ndds730rev0</name>
-    <url>http://download.remedy.nl/buildlogs/rhel80_axcioma_yocto344_zcu102_debug_ndds730rev0</url>
+    <name>rhel80_axcioma_yocto344_zcu102_debug_ndds7305</name>
+    <url>http://download.remedy.nl/buildlogs/rhel80_axcioma_yocto344_zcu102_debug_ndds7305</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
@@ -76,32 +76,32 @@
 <group>
   <name>v2.5.0 on Linux</name>
   <build>
-    <name>rhel80_axcioma250_release_ndds612rev0</name>
-    <url>https://download.remedy.nl/buildlogs/axcioma/AXCIOMA_v2.5.0/rhel80_axcioma25x_release_ndds612rev0</url>
+    <name>rhel80_axcioma250_release_ndds6125</name>
+    <url>https://download.remedy.nl/buildlogs/axcioma/AXCIOMA_v2.5.0/rhel80_axcioma25x_release_ndds6125</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
-    <name>rhel80_axcioma250_debug_ndds612rev0</name>
-    <url>https://download.remedy.nl/buildlogs/axcioma/AXCIOMA_v2.5.0/rhel80_axcioma25x_debug_ndds612rev0</url>
+    <name>rhel80_axcioma250_debug_ndds6125</name>
+    <url>https://download.remedy.nl/buildlogs/axcioma/AXCIOMA_v2.5.0/rhel80_axcioma25x_debug_ndds6125</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
-    <name>rhel80_axcioma250_valgrind_ndds612rev0</name>
-    <url>https://download.remedy.nl/buildlogs/axcioma/AXCIOMA_v2.5.0/rhel80_axcioma25x_valgrind_ndds612rev0</url>
+    <name>rhel80_axcioma250_valgrind_ndds6125</name>
+    <url>https://download.remedy.nl/buildlogs/axcioma/AXCIOMA_v2.5.0/rhel80_axcioma25x_valgrind_ndds6125</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
-    <name>rhel80_axcioma250_yocto344_zcu102_release_ndds612rev0</name>
-    <url>https://download.remedy.nl/buildlogs/axcioma/AXCIOMA_v2.5.0/rhel80_axcioma25x_yocto344_zcu102_release_ndds612rev0</url>
+    <name>rhel80_axcioma250_yocto344_zcu102_release_ndds6125</name>
+    <url>https://download.remedy.nl/buildlogs/axcioma/AXCIOMA_v2.5.0/rhel80_axcioma25x_yocto344_zcu102_release_ndds6125</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
-    <name>rhel80_axcioma250_yocto344_zcu102_debug_ndds612rev0</name>
-    <url>https://download.remedy.nl/buildlogs/axcioma/AXCIOMA_v2.5.0/rhel80_axcioma25x_yocto344_zcu102_debug_ndds612rev0</url>
+    <name>rhel80_axcioma250_yocto344_zcu102_debug_ndds6125</name>
+    <url>https://download.remedy.nl/buildlogs/axcioma/AXCIOMA_v2.5.0/rhel80_axcioma25x_yocto344_zcu102_debug_ndds6125</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
@@ -134,32 +134,32 @@
 <group>
   <name>v2.5.1 dev on Linux</name>
   <build>
-    <name>rhel80_axcioma251_release_ndds612rev0</name>
-    <url>https://download.remedy.nl/buildlogs/axcioma/v2.5.1_dev/rhel80_axcioma25x_release_ndds612rev0</url>
+    <name>rhel80_axcioma251_release_ndds6125</name>
+    <url>https://download.remedy.nl/buildlogs/axcioma/v2.5.1_dev/rhel80_axcioma25x_release_ndds6125</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
-    <name>rhel80_axcioma251_debug_ndds612rev0</name>
-    <url>https://download.remedy.nl/buildlogs/axcioma/v2.5.1_dev/rhel80_axcioma25x_debug_ndds612rev0</url>
+    <name>rhel80_axcioma251_debug_ndds6125</name>
+    <url>https://download.remedy.nl/buildlogs/axcioma/v2.5.1_dev/rhel80_axcioma25x_debug_ndds6125</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
-    <name>rhel80_axcioma251_valgrind_ndds612rev0</name>
-    <url>https://download.remedy.nl/buildlogs/axcioma/v2.5.1_dev/rhel80_axcioma25x_valgrind_ndds612rev0</url>
+    <name>rhel80_axcioma251_valgrind_ndds6125</name>
+    <url>https://download.remedy.nl/buildlogs/axcioma/v2.5.1_dev/rhel80_axcioma25x_valgrind_ndds6125</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
-    <name>rhel80_axcioma251_yocto344_zcu102_release_ndds612rev0</name>
-    <url>https://download.remedy.nl/buildlogs/axcioma/v2.5.1_dev/rhel80_axcioma25x_yocto344_zcu102_release_ndds612rev0</url>
+    <name>rhel80_axcioma251_yocto344_zcu102_release_ndds6125</name>
+    <url>https://download.remedy.nl/buildlogs/axcioma/v2.5.1_dev/rhel80_axcioma25x_yocto344_zcu102_release_ndds6125</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
   <build>
-    <name>rhel80_axcioma251_yocto344_zcu102_debug_ndds612rev0</name>
-    <url>https://download.remedy.nl/buildlogs/axcioma/v2.5.1_dev/rhel80_axcioma25x_yocto344_zcu102_debug_ndds612rev0</url>
+    <name>rhel80_axcioma251_yocto344_zcu102_debug_ndds6125</name>
+    <url>https://download.remedy.nl/buildlogs/axcioma/v2.5.1_dev/rhel80_axcioma25x_yocto344_zcu102_debug_ndds6125</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
   </build>
